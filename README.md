@@ -112,7 +112,6 @@ NRCLex is a Python library based on the NRC Emotion Lexicon developed by the Nat
 
 - **G Mohanraj**
    - Department of AI & DS
-   - Kingston Engineering College
-   📧 [gm@kingston.ac.in](mailto:gm@kingston.ac.in)
+   📧 [gm@iitm.ac.in](mailto:gm@kingston.ac.in)
 ---
 
