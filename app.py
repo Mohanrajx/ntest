@@ -16,4 +16,4 @@ def index():
     return render_template('index.html', emotions=emotions, top_emotions=top_emotions)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True) 
